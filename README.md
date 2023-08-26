@@ -1,6 +1,6 @@
 # Navigation-System
 
-## HIA Cities Navigation System
+## Cities Navigation System
 
 Welcome to the Cities Navigation System repository! This project is a semester undertaking, featuring a user-friendly command-line application designed to assist users in exploring and navigating through various cities and provinces.
 
